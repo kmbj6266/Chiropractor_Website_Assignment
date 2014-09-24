@@ -1,0 +1,407 @@
+
+html {
+	background-color: rgb(102, 104, 44);
+}
+
+body {
+	font: 100% Arial, Helvetica, sans-serif;
+	color: rgb(76, 67, 65);
+	font-weight:normal;
+	font-style:normal;
+	width: 960px;
+	margin:0 auto 2em;
+}
+
+
+h3 { 
+margin-bottom: 0; 
+padding-bottom: 0; 
+margin-top: 0; 
+padding-top: 0; 
+}
+
+
+.contactusbox{
+	background:rgb(254, 251, 220);
+	width:960px;
+	height: 690px;
+	padding: 15px;
+}
+
+
+.container {
+	height:170px;
+	width: 960px;
+}
+
+.logobanner {
+	background:url(../images/logoWhite.png) no-repeat;
+	height:166px;
+	float: left;
+	width: 460px;
+	margin-right: 20px;
+}
+
+.headtype {
+	font-size:1.2em;
+	float: left;
+	margin:30px;
+	padding-top:60px;
+	width: 260px;
+	color: #FFF;
+	text-align:center;
+}
+
+.findus{
+	font-size:1.2em;
+	margin-left:840px;
+	padding-top: 90px;
+	width: 150px;
+	color: #FFF;
+	text-align:center;
+}
+
+.nav {
+	color:rgb(0,0,0);
+	background-color: rgb(205, 222, 96);
+	width:960px;
+	height: 20px;
+	padding:15px;
+	text-align:center;
+}
+
+
+a:link {text-decoration:none;
+color:#000;}
+
+a:visited {text-decoration:none;
+color:#000;
+}
+
+a:hover {
+background-color:#CCFF99;
+text-decoration:none;
+}
+
+a:active {text-decoration:none;
+}
+
+
+.banner {
+	background:url(../images/header_photo.jpg) no-repeat 15px 15px;
+	background-color:-moz-rgb(161,118,43);
+	background-color:-webkit-rgb(161,118,43);
+	background-color:-o-rgb(161,118,43);
+	background-color:-mslinear-rgb(161,118,43);
+	background-color:rgb(161,118,43);
+	width:960px;
+	padding: 15px;
+	position:absolute;
+}
+
+
+.bannernewpatient {
+	background:url(../images/lumbar_chiropractic.jpg) no-repeat 15px 15px;
+	background-color:-moz-rgb(161,118,43);
+	background-color:-webkit-rgb(161,118,43);
+	background-color:-o-rgb(161,118,43);
+	background-color:-mslinear-rgb(161,118,43);
+	background-color:rgb(161,118,43);
+	width:960px;
+	height: 290px;
+	padding: 15px;
+	position:absolute;
+}
+
+.bannerservices {
+	background-color:rgb(161,118,43);
+	width:960px;
+	height:560px;
+	padding:15px;
+	position:absolute;
+}
+
+.bannerblog {
+	background-color:rgb(161,118,43);
+	width:960px;
+	height: 980px;
+	padding:15px;
+	position:absolute;
+}
+
+.servphotos{
+	float:left;
+	font-size:100%; 
+	font-family:Arial, Helvetica, sans-serif;
+	color:rgb(0,0,0);
+	width: 280px;
+}
+
+.productphotosbox{
+	font-size:100%; 
+	font-family:Arial, Helvetica, sans-serif;
+	color:rgb(0,0,0);
+	width: 930px;
+	background:rgb(254, 251, 220);
+	height:530px;
+	padding:15px;
+}
+
+
+
+.bloginner{
+	font-size:100%; 
+	font-family:Arial, Helvetica, sans-serif;
+	color:rgb(0,0,0);
+	width: 930px;
+	background:rgb(254, 251, 220);
+	height:950px;
+	padding:15px;
+}
+
+
+.col_a{
+    width:130px;
+    float:left;
+}
+
+.col_b, .col_d {
+   width:310px;
+   float:left;
+   padding-left:10px;
+   margin-left:10px;
+}
+
+.col_c{
+    width:130px;
+    float:left;
+	margin-left:10px;
+}
+
+.imgborder{ 
+   border:2px solid;
+}
+
+
+.blogcol1{
+    width:445px;
+    float:left;
+}
+
+.blogcol2{
+    width:445px;
+    float:right;
+	
+}
+
+
+.services {
+	background:rgb(254, 251, 220);
+	font-size:100%; 
+	font-family:Arial, Helvetica, sans-serif;
+	color:rgb(0,0,0);
+	width: 645px;
+	height:540px;
+	margin-left: 295px;
+	padding: 10px;
+	position:absolute;
+}
+
+.par1{
+	height:180px;
+	margin-bottom: 0; 
+	padding-bottom: 0; 
+	margin-top: 0; 
+	padding-top: 0; 
+}
+
+.address {
+	font-size:1.25em; 
+	font-family:Arial, Helvetica, sans-serif;
+	color:rgb(0,0,0);
+	background:rgb(254, 251, 220);
+	width: 315px;
+	height: 275px;
+	float:right;
+	margin-left: 10px;
+	padding-left:10px;
+	padding-top: 5px;
+	border:solid 2px;
+}
+
+.address2 {
+	font-size:1.25em; 
+	font-family:Arial, Helvetica, sans-serif;
+	color:rgb(0,0,0);
+	text-align:center;
+}
+
+.section{
+	background:rgb(254, 251, 220);
+	width:960px;
+	height: 290px;
+	margin-top:310px;
+	padding: 15px;
+}
+
+.map{
+	padding-left:40px;
+	margin:auto;
+
+}
+
+.column1{
+	height: 290px;
+	float:left;
+	padding-left:20px;
+	width: 540px;
+}
+
+.column2map{
+	background:url(../images/map1.png)no-repeat;
+	width: 320px;
+	height:290px;
+	margin-left:632px;
+	border:solid 2px;
+}
+
+.contactmap{
+	background:url(../images/map1.png)no-repeat;
+	width: 320px;
+	height:290px;
+	margin-left:60px;
+	border:solid 2px;
+}
+
+.column2forms{
+	width: 320px;
+	height:290px;
+	margin-left:632px;
+}
+
+.footerservice{
+	background-color: rgb(205, 222, 96);
+	width:960px;
+	height: 40px;
+	padding:15px;
+	text-align:center;
+	margin-top:590px;
+}
+
+.footerblog{
+	background-color: rgb(205, 222, 96);
+	width:960px;
+	height: 40px;
+	padding:15px;
+	text-align:center;
+	margin-top:1010px;
+}
+
+#pagefooter{
+	background-color: rgb(205, 222, 96);
+	width:960px;
+	height: 40px;
+	padding:15px;
+	text-align:center;
+}
+
+
+/*
+contact form
+*/
+
+
+
+.wrapper {
+	max-width:465px;
+	width:90%;
+	margin:0 auto;
+	position:relative;
+		
+}
+#contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form input[type="tel"],
+#contact-form input[type="url"],
+#contact-form textarea,
+#contact-form button[type="submit"] {
+	font:400 12px/12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#contact-form {
+	text-shadow:0 1px 0 #FFF;
+	border-radius:4px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	background-color:rgb(254, 251, 220);
+	padding-left:15px;
+	float:left;
+}
+#contact-form h3 {
+	color:#000;
+	display:block;
+	font-size:28px;
+}
+#contact-form h4 {
+	margin:5px 0 15px;
+	display:block;
+	font-size:13px;
+	color:#000;
+}
+#contact-form label span {
+	cursor:pointer;
+	color:#000;
+	display:block;
+	margin:5px 0;
+	font-weight:900;
+}
+#contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form input[type="tel"],
+#contact-form input[type="url"],
+#contact-form textarea {
+	width:100%;
+	box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+	-webkit-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+	-moz-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+	border:1px solid #000;
+	background:#FFF;
+	margin:0 0 5px;
+	padding:10px;
+	border-radius:5px;
+}
+#contact-form input[type="text"]:hover,
+#contact-form input[type="email"]:hover,
+#contact-form input[type="tel"]:hover,
+#contact-form input[type="url"]:hover,
+#contact-form textarea:hover {
+	
+	transition:border-color 0.3s ease-in-out;
+	border:1px solid #AAA;
+}
+#contact-form textarea {
+	height:100px;
+	max-width:100%;
+}
+#contact-form button[type="submit"] {
+	cursor:pointer;
+	width:50%;
+	border:none;
+	background:#cdde60;
+	
+	color:#000;
+	margin:0 0 5px;
+	padding:10px;
+	border-radius:5px;
+
+}
+#contact-form button[type="submit"]:hover {
+	transition:background-color 0.3s ease-in-out;
+}
+#contact-form button[type="submit"]:active {
+	box-shadow:inset 0 1px 3px rgba(0,0,0,0.5);
+}
+#contact-form input:focus,
+#contact-form textarea:focus {
+	outline:0;
+	border:1px solid #000;
+}
